@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on various projects as a part of the <a href="https://www.sudocode.org/">Sudocode team</a>.<br>👯 I’m looking to collaborate on web development and artificial intelligence projects.<br>🌱 I’m currently learning and studying artificial intelligence and robotics as a university student.<br>💬 Ask me about any topics I specialize in—I'd be happy to help!<br>⚡ Fun fact: Most of my knowledge comes from YouTube, which has been way more useful than university! 😁<br><br>
 
-<a href="https://www.sudocode.org/">Sudocode team</a>
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18819325) 
 
